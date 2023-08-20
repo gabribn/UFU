@@ -1,0 +1,56 @@
+body {
+  width: 60%;
+  margin: 0 auto;
+  padding: 2% 0;
+  background-color: black;
+  line-height: 1.5;
+}
+
+nav {
+  border-radius: 10px 10px 0 0;
+  background-color: white;
+  padding-top: 5%;
+}
+
+footer{
+  padding-bottom: 1%;
+}
+
+main{
+  background-color: white;
+  border-radius: 0 0 10px 10px;
+}
+.container {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  height: 100%;
+  border-radius: 10px;
+  background-color: white;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto 20px;
+
+}
+
+a {
+  text-decoration: none;
+  color: #afafd0;
+  transition: border-color 0.3s
+  border: 1px solid transparent;
+}
+
+a:hover {
+    color: black
+}
+
+.sobre{
+  color: #ab4bbe;
+}
+
+.info{
+  color: #ab4bbe;
+}
